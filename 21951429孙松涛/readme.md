@@ -10,3 +10,12 @@
 - 自定义shader
  
 ![work2 pic](project2_preview.gif)
+
+## 作业3：
+- 显示模型
+- 使用光照
+- 视角转换
+
+**视频位置:`/project3/run_sample.mp4`**
+
+## 读书报告
